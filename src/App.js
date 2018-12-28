@@ -1,7 +1,10 @@
 import React from 'react';
 
+import Main from './templates/Main';
+import './style.less';
+
 const App = () => (
-  <div> App.js </div>
+  <Main />
 );
 
 export default App;
